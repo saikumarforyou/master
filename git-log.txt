@@ -1,0 +1,47 @@
+commit 9080d1ede6ac7726809ee7d088a42e811ea2bae3
+Author: sai kumar <saikumarforyou@gmail.com>
+Date:   Tue Oct 3 13:15:37 2017 +0530
+
+    -m" revert" Revert "test4"
+    
+    This reverts commit 7639fdd0b0323946b9ca682989d7f1258da0a710.
+
+commit 7639fdd0b0323946b9ca682989d7f1258da0a710
+Author: sai kumar <saikumarforyou@gmail.com>
+Date:   Tue Oct 3 12:51:50 2017 +0530
+
+    test4
+
+commit 6f0d9ab74ce9d60131d51d9068d120777e205b8d
+Author: Sai Kumar Medeti <smedeti@asiapac.globalcsc.net>
+Date:   Mon Oct 2 20:16:37 2017 +0530
+
+    for test branch
+
+commit feccdf371e45523081a513ec9f5fb5e1109fcdad
+Author: Sai Kumar Medeti <smedeti@asiapac.globalcsc.net>
+Date:   Mon Oct 2 19:56:14 2017 +0530
+
+    first commit
+
+commit c731fd391e9b8f9ea9649267e0c9081e42ddd589
+Author: Sai Kumar Medeti <smedeti@asiapac.globalcsc.net>
+Date:   Mon Oct 2 15:32:45 2017 +0530
+
+    t
+commit 7639fdd0b0323946b9ca682989d7f1258da0a710
+Author: sai kumar <saikumarforyou@gmail.com>
+Date:   Tue Oct 3 12:51:50 2017 +0530
+
+    test4
+
+diff --git a/git-test4.txt b/git-test4.txt
+new file mode 100644
+index 0000000..fadbf1d
+--- /dev/null
++++ b/git-test4.txt
+@@ -0,0 +1,4 @@
++test1
++test2
++test3
++test4
